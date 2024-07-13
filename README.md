@@ -6,6 +6,5 @@ This is a simple Rock Paper Scissors game implemented in Python using the Tkinte
   <li>-Keep track of your score.</li>
   <li>-Simple and intuitive user interface.</li>
 
-<li><u>Screenshot</u>
+## Screenshot
   <ul><img src="preview/rpc.png"></ul>
-</li>
