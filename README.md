@@ -3,9 +3,9 @@ This is a simple Rock Paper Scissors game implemented in Python using the Tkinte
 
 ## Features
 <li>
-  <ul>Play Rock Paper Scissors against the computer.</ul>
-  <ul>Keep track of your score.</ul>
-  <ul>Simple and intuitive user interface.</ul>
+  <ul>-Play Rock Paper Scissors against the computer.</ul>
+  <ul>-Keep track of your score.</ul>
+  <ul>-Simple and intuitive user interface.</ul>
 </li>
 
 <li><u>Screenshot</u>
